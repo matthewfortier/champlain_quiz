@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+    <question>
+        <text>What is the Student/Faculty ratio</text>
+        <answer>14:1</answer>
+        <type>Text</type>
+        <option>17:1</option>
+        <option>13:1</option>
+        <option>23:1</option>
+    </question>
+    <question>
+        <text>____ is the largest division in 2016</text>
+        <answer>CCM</answer>
+        <type>Fill</type>
+        <option></option>
+        <option></option>
+        <option></option>
+    </question>
+    <question>
+        <text>What is Champlain's Male-to-female ratio</text>
+        <answer>62% male, 38% female</answer>
+        <type>Text</type>
+        <option>60% male, 40% female</option>
+        <option>65% male, 35% female</option>
+        <option>70% male, 30% female</option>
+    </question>
+    <question>
+        <text>Champlains Employment Rate (2016)</text>
+        <answer>95%</answer>
+        <type>Text</type>
+        <option>100%</option>
+        <option>86%</option>
+        <option>93%</option>
+    </question>
+    <question>
+        <text>Percentage of Students Who Study Abroad</text>
+        <answer>53%</answer>
+        <type>Text</type>
+        <option>45%</option>
+        <option>51%</option>
+        <option>50%</option>
+    </question>
+    <question>
+        <text>How many applications did Champlain receive in 2016</text>
+        <answer>4576</answer>
+        <type>Text</type>
+        <option>3654</option>
+        <option>2600</option>
+        <option>4245</option>
+    </question>
+    <question>
+        <text>What was Champlain's acceptance rate in 2016</text>
+        <answer>70%</answer>
+        <type>Text</type>
+        <option>85%</option>
+        <option>76%</option>
+        <option>67%</option>
+    </question>
+    <question>
+        <text>What was Champlain's retention rate in 2015</text>
+        <answer>89%</answer>
+        <type>Text</type>
+        <option>85%</option>
+        <option>76%</option>
+        <option>67%</option>
+    </question>
+    <question>
+        <text>996 is the amount of ____ in 2016</text>
+        <answer>Student Employees</answer>
+        <type>Text</type>
+        <option>Degrees Conferred</option>
+        <option>Failed Courses</option>
+        <option>Classes held</option>
+    </question>
+    <question>
+        <text>49,234 is the amount of ____ in 2016</text>
+        <answer>Print Books in the Library</answer>
+        <type>Text</type>
+        <option>Tuition</option>
+        <option>Assignments Submitted</option>
+        <option>Chicken Tenders Sold</option>
+    </question>
+</questions>

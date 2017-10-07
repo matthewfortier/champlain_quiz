@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+    <question>
+        <text>Which Champlain Hall used to be called Hamrick Hall</text>
+        <answer>IDX</answer>
+        <type>Text</type>
+        <option>Pearl</option>
+        <option>Perry</option>
+        <option>Valcour</option>
+    </question>
+    <question>
+        <text>Champlain College was established in ____</text>
+        <answer>1878</answer>
+        <type>Fill</type>
+        <option></option>
+        <option></option>
+        <option></option>
+    </question>
+    <question>
+        <text>Champlain College was founded by:</text>
+        <answer>George W. Thompson</answer>
+        <type>Text</type>
+        <option>Michael W. Thompson</option>
+        <option>George W. Green</option>
+        <option>George S. Thompson</option>
+    </question>
+    <question>
+        <text>Which street did Champlain College start on:</text>
+        <answer>Main St.</answer>
+        <type>Text</type>
+        <option>Church St.</option>
+        <option>S Prospect</option>
+        <option>Maple St.</option>
+    </question>
+    <question>
+        <text>Which building was the first purchased by Champlain</text>
+        <answer>Freeman</answer>
+        <type>Text</type>
+        <option>Aiken</option>
+        <option>Wick</option>
+        <option>Coolidge</option>
+    </question>
+    <question>
+        <text>Which year did Champlain move to the Hill District</text>
+        <answer>1958</answer>
+        <type>Fill</type>
+        <option></option>
+        <option></option>
+        <option></option>
+    </question>
+    <question>
+        <text>What year did Champlain start offering graduate degrees</text>
+        <answer>2002</answer>
+        <type>Text</type>
+        <option>2003</option>
+        <option>1997</option>
+        <option>2010</option>
+    </question>
+    <question>
+        <text>Which residence halls had the first student move in</text>
+        <answer>Sanders / Jensen</answer>
+        <type>Text</type>
+        <option>Hill / Lyman</option>
+        <option>Bader / McDonald</option>
+        <option>Jensen / Bader</option>
+    </question>
+    <question>
+        <text>Since when has Champlain admitted female students</text>
+        <answer>1878</answer>
+        <type>Text</type>
+        <option>1968</option>
+        <option>1915</option>
+        <option>1942</option>
+    </question>
+    <question>
+        <text>Which sport was Champlain known for back in the day</text>
+        <answer>Basketball</answer>
+        <type>Text</type>
+        <option>Baseball</option>
+        <option>Curling</option>
+        <option>Skiing</option>
+    </question>
+</questions>

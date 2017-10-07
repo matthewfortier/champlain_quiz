@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChamplainQuiz</string>
+    <string name="title_home">Home</string>
+    <string name="title_leaderboards">Leader Boards</string>
+    <string name="main_text">Choose a Champlain Quiz Category or Leaderboard</string>
+    <string name="buildings_text">Buildings</string>
+    <string name="history_text">History</string>
+    <string name="statistics_text">Statistics</string>
+    <string name="hint_button_text">Hint</string>
+    <string name="submit_fill_button_text">Submit</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="submit_score">Submit Score</string>
+    <string name="share_button_text">Share</string>
+    <string name="quiz_category">quiz_category</string>
+    <string name="quiz_score">quiz_score</string>
+    <string name="already_created">Already created</string>
+    <string name="resource_xml">xml</string>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+    <question>
+        <text>Which Champlain Hall is Haunted</text>
+        <answer>Jensen</answer>
+        <type>Text</type>
+        <option>Pearl</option>
+        <option>Perry</option>
+        <option>Valcour</option>
+    </question>
+    <question>
+        <text>____ is the smallest Residence Hall</text>
+        <answer>Carriage</answer>
+        <type>Fill</type>
+        <option></option>
+        <option></option>
+        <option></option>
+    </question>
+    <question>
+        <text>Which hall is McDonald Hall</text>
+        <answer>mcdonald</answer>
+        <type>Image</type>
+        <option>idx</option>
+        <option>freeman</option>
+        <option>bader</option>
+    </question>
+    <question>
+        <text>Which Champlain Hall Pre-Dates the Civil War</text>
+        <answer>Perry</answer>
+        <type>Text</type>
+        <option>IDX</option>
+        <option>Freeman</option>
+        <option>West</option>
+    </question>
+    <question>
+        <text>Which hall inspired the architecture for the entire campus</text>
+        <answer>Aiken</answer>
+        <type>Text</type>
+        <option>Freeman</option>
+        <option>Joyce</option>
+        <option>West</option>
+    </question>
+    <question>
+        <text>Which building holds the most iMacs on campus</text>
+        <answer>The Barn</answer>
+        <type>Text</type>
+        <option>Joyce</option>
+        <option>Ireland</option>
+        <option>West</option>
+    </question>
+    <question>
+        <text>Which hall was named after an island on Lake Champlain</text>
+        <answer>Valcour</answer>
+        <type>Text</type>
+        <option>Bader</option>
+        <option>Summit</option>
+        <option>Foster</option>
+    </question>
+    <question>
+        <text>Which building is Champlain's latest aquisition</text>
+        <answer>315 Maple</answer>
+        <type>Text</type>
+        <option>158 S Willard</option>
+        <option>308 Maple</option>
+        <option>396 Main St</option>
+    </question>
+    <question>
+        <text>Which Residence Hall did Matthew Fortier live in his first year</text>
+        <answer>396 Main St</answer>
+        <type>Text</type>
+        <option>Pearl</option>
+        <option>Hill</option>
+        <option>371 Main St</option>
+    </question>
+    <question>
+        <text>Which building houses the Women's and Gender Center</text>
+        <answer>Skiff Annex</answer>
+        <type>Text</type>
+        <option>IDX</option>
+        <option>CCM</option>
+        <option>Wick</option>
+    </question>
+</questions>
